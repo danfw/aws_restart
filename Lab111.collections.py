@@ -1,0 +1,42 @@
+myFruitList = ["apple","banana","cherry"]
+print(myFruitList)
+print(type(myFruitList))
+print()
+print("------------Exercise 1.a | Accessing a list by position------------------------------")
+print()
+print(myFruitList[0])
+print(myFruitList[1])
+print(myFruitList[2])
+print()
+print("------------Exercise 1.b | Changing the values in a list-----------------------------")
+print()
+myFruitList[2] = "orange"
+print(myFruitList)
+print()
+print("------------Exercise 2.a | Defining a tuple------------------------------------------")
+print()
+myFinalAnswerTuple = ("apple","banana","pineapple")
+print(myFinalAnswerTuple)
+print(type(myFinalAnswerTuple))
+print()
+print("------------Exercise 2.b | Accessing a tuple by position-----------------------------")
+print()
+print(myFinalAnswerTuple[0])
+print(myFinalAnswerTuple[1])
+print(myFinalAnswerTuple[2])
+print()
+print("------------Exercise 3.a | Defining a dictonary--------------------------------------")
+print()
+myFavoriteFruitDictionary = {
+    "Akua" : "apple",
+    "Saanvi" : "banana",
+    "Paulo" : "pineapple"
+}
+print(myFavoriteFruitDictionary)
+print(type(myFavoriteFruitDictionary))
+print()
+print("------------Exercise 3.b | Accessing a dictonary by name-----------------------------")
+print()
+print(myFavoriteFruitDictionary["Akua"])
+print(myFavoriteFruitDictionary["Saanvi"])
+print(myFavoriteFruitDictionary["Paulo"])
