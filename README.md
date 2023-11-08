@@ -12,3 +12,6 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
+
+
+Token: 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
